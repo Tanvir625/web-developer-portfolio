@@ -203,3 +203,7 @@ padding: 10px 20px;
 margin-bottom: 24px;
 
 }
+
+.resume-actions{
+    text-decoration: none;}
+/* remove underline for links inside .resume-actions */
